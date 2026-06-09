@@ -114,7 +114,10 @@ Contains reusable helper functions such as:
 
 Sample testing Commands: 
 
-python main.py add 07:30 --label Gym
-python main.py list
-python main.py run
+python main.py add 07:30 --label Gym,
+
+python main.py list,
+
+python main.py run,
+
 python main.py delete 1 (1 indicated the id of alarm)
